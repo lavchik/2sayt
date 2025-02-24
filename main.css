@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conenier{
+max-width: 1280px;
+width: 100%;
+margin: 0;
+}
+.all_wrapper{
+    background-image: url("./images/1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 43px;
+}
+.header_wraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_list{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+li{
+    color: #ffffff;
+}
+.h2{
+    color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 96px;
+font-weight: 700;
+line-height: 123%;
+letter-spacing: 2%;
+text-align: left;
+width: 679px;
+height: 227px;
+}
+.p{
+    color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 160%;
+letter-spacing: 1%;
+text-align: left;
+width: 645px;
+height: 87px;
+margin-top: 48px;
+}
+.knopka{
+    border-radius: 10px;
+background: rgb(245, 117, 32);
+width: 180px;
+height: 52px;
+margin-bottom: 252px;
+}
+.otajon{
+    margin-left: 320px;
+}
+.hero2{
+    display: flex;
+    background-color:gray;
+}
+.img{
+    margin-right: 40px;
+}
+.img2{
+    margin-right: 40px;
+}
+.img3{
+    margin-right: 40px;
+}
+.img4{
+    margin-right: 40px;
+}
+.img5{
+    margin-right: 40px;
+}
+
+
